@@ -1,8 +1,8 @@
 ## About Me
 
-Financial analyst by trade with IT experience. I enjoy discovering and working on various open source projects related to my hobbies and interests. Always looking for new technical skills to develop.
+Finance analyst by trade with IT experience. I enjoy discovering and working on various open source projects related to my hobbies and interests. Always looking for new technical skills to develop.
 
-- 🌟 **Current Status:** Working as a Finance Analyst
+- 🌟 **Current Status:** Working as a finance analyst, particularly in project cost control. 
 - 🏠 **Location:** Virginia Beach, VA
 - 📧 **Email:** [ethanransberger@gmail.com](mailto:ethanransberger@gmail.com)
 - 🔗 **LinkedIn:** [Ethan Ransberger](https://www.linkedin.com/in/ethanransberger/)
