@@ -1,12 +1,13 @@
 ## About Me
 
-I am a passionate data analyst and IT applications specialist based in Virginia Beach, VA. With a strong foundation in economics, data analysis, and programming, I am constantly seeking new challenges and opportunities to apply my skills in real-world projects.
+Financial analyst by trade with IT experience. I enjoy discovering and working on various open source projects related to my hobbies and interests. Always looking for new technical skills to develop.
 
-- 🌟 **Current Status:** Actively seeking new opportunities
+- 🌟 **Current Status:** Working as a Finance Analyst
 - 🏠 **Location:** Virginia Beach, VA
 - 📧 **Email:** [ethanransberger@gmail.com](mailto:ethanransberger@gmail.com)
 - 🔗 **LinkedIn:** [Ethan Ransberger](https://www.linkedin.com/in/ethanransberger/)
 - 💼 **GitHub:** [EthanRansberger](https://github.com/EthanRansberger)
+
   
 ## 📊 GitHub Stats
 
